@@ -24,4 +24,7 @@ Localização
 Sexo 
 Obs: desativar o site antigo 
 
-
+BANCO DE DADOS:
+Controle 
+Armazenamento de informação ( Nivel de acesso para adm )
+Obs: Dentro do site talvez uma parte que solicite senha;
