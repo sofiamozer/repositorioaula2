@@ -28,3 +28,9 @@ BANCO DE DADOS:
 Controle 
 Armazenamento de informação ( Nivel de acesso para adm )
 Obs: Dentro do site talvez uma parte que solicite senha;
+
+Necessidades: 
+Digitalizar arquivos arquivos antigos 
+Espaço para visitante, para professores controlarem cursos eventos , e para adm;
+Acessibilidade para pessoas com deficiência visual e auditiva;
+Visitante conhecer  projetos, cursos e evntos e se inscrever neles;
