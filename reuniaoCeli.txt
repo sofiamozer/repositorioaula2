@@ -40,7 +40,7 @@ Organizadores: controle de inscrições, cronograma e tudo que necessitam ( soli
 Adm: controle de eventos, cursos, projetos, inscritos, projeto solicitados, material soloicitado, espaçpo e toda a parte de gestão;
 
 Cursos:
-Organização de eventos; formularios pedindo informaçõ4es para Deac e no mesmo formuloário pedindo informjações sobre materias espaço necessarios 
+Organização de eventos; formularios pedindo informações para Deac e no mesmo formulário pedindo informações sobre materias espaço necessarios 
 Projeto olhos meus: Fixo
 Linguas surdas: Era fixo 
 Inglês: Fixo anteriormente 
@@ -48,3 +48,8 @@ Espanhol: Fixo anteriormente
 Bússula academica: Pendente ( suspenso )
 Evento cefetalent: Anual
 CESINF: Evento ocorrido no passado, existe interesse em trazer de volta;
+
+*Divulgação interna e externo: 
+Formulários de regras: Prazo para elaborar o evento, resumo do evento/curso e etc
+Login específico: espaço se tornar um organizador onde será explicado o funcionhamneto dos cursos e ventos;
+Inscrições digitais
