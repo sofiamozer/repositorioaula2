@@ -53,3 +53,10 @@ CESINF: Evento ocorrido no passado, existe interesse em trazer de volta;
 Formulários de regras: Prazo para elaborar o evento, resumo do evento/curso e etc
 Login específico: espaço se tornar um organizador onde será explicado o funcionhamneto dos cursos e ventos;
 Inscrições digitais
+
+Site: 
+ter no site espaço de apresentação da equip; 
+crédito aos desenvolvedores;
+Aba para apresentar eventos e cursos atuais;
+link específico para adm;
+link específico para organizadores;
