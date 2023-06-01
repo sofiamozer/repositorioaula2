@@ -34,3 +34,8 @@ Digitalizar arquivos arquivos antigos
 Espaço para visitante, para professores controlarem cursos eventos , e para adm;
 Acessibilidade para pessoas com deficiência visual e auditiva;
 Visitante conhecer  projetos, cursos e evntos e se inscrever neles;
+
+Funções:
+Organizadores: controle de inscrições, cronograma e tudo que necessitam ( solicitado no formulário de inscrição);
+Adm: controle de eventos, cursos, projetos, inscritos, projeto solicitados, material soloicitado, espaçpo e toda a parte de gestão;
+
