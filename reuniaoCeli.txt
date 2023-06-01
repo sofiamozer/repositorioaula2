@@ -1,5 +1,5 @@
 objetivo:
-Divulgar o programa além do instagram, principalmente internamnete no CEFET;
+*Divulgar o programa além do instagram, principalmente internamnete no CEFET;
 Amenizar os arquivos em pasta separados por ano;
 Solucionar os problemas de antecedencia na solicitação escular;
 Solucionar problemas de esspaço de armazenamento e de organização;
@@ -39,3 +39,12 @@ Funções:
 Organizadores: controle de inscrições, cronograma e tudo que necessitam ( solicitado no formulário de inscrição);
 Adm: controle de eventos, cursos, projetos, inscritos, projeto solicitados, material soloicitado, espaçpo e toda a parte de gestão;
 
+Cursos:
+Organização de eventos; formularios pedindo informaçõ4es para Deac e no mesmo formuloário pedindo informjações sobre materias espaço necessarios 
+Projeto olhos meus: Fixo
+Linguas surdas: Era fixo 
+Inglês: Fixo anteriormente 
+Espanhol: Fixo anteriormente
+Bússula academica: Pendente ( suspenso )
+Evento cefetalent: Anual
+CESINF: Evento ocorrido no passado, existe interesse em trazer de volta;
