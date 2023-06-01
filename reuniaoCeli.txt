@@ -14,5 +14,14 @@ Criar um site;
 Instucionalizar eventos ( comunição DEAC );
 promover eventos como palestra, eventos esportivos e aumentar a duvulgação para o o público local;
 
+INCRIÇÕES:
+Pedir nome completo;
+Telefone;
+Email;
+Uso de imagem ( padrão);
+Idade
+Localização
+Sexo 
+Obs: desativar o site antigo 
 
 
